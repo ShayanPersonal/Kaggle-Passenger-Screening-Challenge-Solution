@@ -41,3 +41,6 @@ Training files go in aps/
 Test files to make predictions on go in test/  
 Predictions will be generated in predictions/  
 All training / testing data had to be deleted after the competition due to NDA.
+
+This is a remake of the body zones reference file (thanks to Shiv Gowda).
+![alt text](https://raw.githubusercontent.com/ShayanPersonal/Kaggle-Passenger-Screening-Challenge-Solution/master/body_zones.png)
