@@ -1,5 +1,7 @@
 # Passenger Screening Challenge Solution
 
+Slides: https://docs.google.com/presentation/d/1TeUD7tV-E87hngcgv7rmmHRDJN8M3HCIwlIw_beWsis/edit?usp=sharing
+
 This repository contains my solution to the $1.5 million Passenger Screening Challenge on Kaggle sponsored by the Department of Homeland Security.
 
 It won 10th place (originally 9th place) with no ensembling, segmentation, or other bells and whistles. All training and testing was done on a single GTX 1080 ti and the model gives top-10 results in less than a day of training.
