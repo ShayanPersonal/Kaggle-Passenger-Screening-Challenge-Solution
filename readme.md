@@ -1,6 +1,6 @@
 # Passenger Screening Challenge Solution
 
-tldr: The model is defined in mvcnn.py.
+**tldr: The model is defined in mvcnn.py.**
 
 Slides: https://docs.google.com/presentation/d/1TeUD7tV-E87hngcgv7rmmHRDJN8M3HCIwlIw_beWsis/edit?usp=sharing
 
