@@ -29,13 +29,15 @@ The model performs no segmentation and uses no data other than what's provided b
 My setup / requirements:
 * Ubuntu 16.04
 * Python 3
+* 32 GB system RAM, GTX 1080 ti.
 * Anaconda (should install most of the libraries you need).
 * Pytorch 0.20
 * torchsample (for data augmentations)
 
-The model is defined in mvcnn.py.  
 Run with 
 > python main.py
+
+The model is defined in mvcnn.py.
 
 It takes roughly 12-16 hours to train on a single GTX 1080 ti. It converges to a very low loss in just hours but I found leaving it running for some time improves test time results.
 
