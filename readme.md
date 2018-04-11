@@ -1,5 +1,7 @@
 # Passenger Screening Challenge Solution
 
+tldr: The model is defined in mvcnn.py.
+
 Slides: https://docs.google.com/presentation/d/1TeUD7tV-E87hngcgv7rmmHRDJN8M3HCIwlIw_beWsis/edit?usp=sharing
 
 This repository contains my solution to the $1.5 million Passenger Screening Challenge on Kaggle sponsored by the Department of Homeland Security.
@@ -36,8 +38,6 @@ My setup / requirements:
 
 Run with 
 > python main.py
-
-The model is defined in mvcnn.py.
 
 It takes roughly 12-16 hours to train on a single GTX 1080 ti. It converges to a very low loss in just hours but I found leaving it running for some time improves test time results.
 
